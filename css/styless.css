@@ -1,0 +1,6 @@
+body{
+    background-image: url('../images/Background_Night.svg');
+    background: cover;
+    background-size: cover;
+    background-position-y: 50%;
+}
