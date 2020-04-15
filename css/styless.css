@@ -4,3 +4,23 @@ body{
     background-size: cover;
     background-position-y: 50%;
 }
+#play{
+    background-color: #ff5f84;
+    color: white;
+    border: 4px solid;
+    font-weight: 700;
+    font-size: 2rem;
+    border-radius:50px;
+    width: 200px;
+}
+#gameStart{
+    background-color: #4c4660;
+    color: white;
+    border: #ff5f84 solid 4px;
+    border-radius:50px;
+    width: 50%;
+    font-weight: 900;
+}
+#gameStart h1{
+    font-weight: 700;
+}
